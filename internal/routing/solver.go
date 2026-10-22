@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/farm"
+	"github.com/GhostOfAstana/path-flow/internal/farm"
 )
 
 // Plan stores pipelines, not a turn-by-turn copy of every ant's journey.

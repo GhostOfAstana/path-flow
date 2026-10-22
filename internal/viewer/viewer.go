@@ -8,8 +8,8 @@ import (
 	"html/template"
 	"io"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/colony"
-	"github.com/ernat-soltanbekov/path-flow/internal/replay"
+	"github.com/GhostOfAstana/path-flow/internal/colony"
+	"github.com/GhostOfAstana/path-flow/internal/replay"
 )
 
 //go:embed viewer.html

@@ -1,3 +1,3 @@
-module github.com/ernat-soltanbekov/path-flow
+module github.com/GhostOfAstana/path-flow
 
 go 1.22

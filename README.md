@@ -11,7 +11,7 @@
 Нужен **Go 1.22 или новее**. Только стандартная библиотека Go; внешние Go-пакеты, Node.js, npm, CDN и API-ключи для сборки и запуска не нужны.
 
 ```sh
-git clone https://github.com/ernat-soltanbekov/path-flow.git
+git clone https://github.com/GhostOfAstana/path-flow.git
 cd path-flow
 go run . examples/example00.txt
 ```

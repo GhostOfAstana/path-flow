@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/farm"
-	"github.com/ernat-soltanbekov/path-flow/internal/replay"
-	"github.com/ernat-soltanbekov/path-flow/internal/routing"
+	"github.com/GhostOfAstana/path-flow/internal/farm"
+	"github.com/GhostOfAstana/path-flow/internal/replay"
+	"github.com/GhostOfAstana/path-flow/internal/routing"
 )
 
 func graph(t testing.TB, rooms, ants int, links [][2]int) *farm.Farm {

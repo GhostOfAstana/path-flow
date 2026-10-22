@@ -16,8 +16,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/replay"
-	"github.com/ernat-soltanbekov/path-flow/internal/viewer"
+	"github.com/GhostOfAstana/path-flow/internal/replay"
+	"github.com/GhostOfAstana/path-flow/internal/viewer"
 )
 
 func main() {

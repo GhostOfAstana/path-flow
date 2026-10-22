@@ -5,7 +5,7 @@ import (
 	"container/heap"
 	"context"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/farm"
+	"github.com/GhostOfAstana/path-flow/internal/farm"
 )
 
 // Splitting a room into an entrance and an exit lets an ordinary flow

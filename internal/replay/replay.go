@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/farm"
+	"github.com/GhostOfAstana/path-flow/internal/farm"
 )
 
 // The browser replay is bounded separately from the streaming solver.

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/replay"
+	"github.com/GhostOfAstana/path-flow/internal/replay"
 )
 
 func TestRenderEscapesRoomNames(t *testing.T) {

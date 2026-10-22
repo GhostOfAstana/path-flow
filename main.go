@@ -9,8 +9,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/farm"
-	"github.com/ernat-soltanbekov/path-flow/internal/routing"
+	"github.com/GhostOfAstana/path-flow/internal/farm"
+	"github.com/GhostOfAstana/path-flow/internal/routing"
 )
 
 func main() {

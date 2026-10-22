@@ -7,8 +7,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/ernat-soltanbekov/path-flow/internal/colony"
-	"github.com/ernat-soltanbekov/path-flow/internal/farm"
+	"github.com/GhostOfAstana/path-flow/internal/colony"
+	"github.com/GhostOfAstana/path-flow/internal/farm"
 )
 
 // Write emits the input, both profile comments, and one line per turn.
